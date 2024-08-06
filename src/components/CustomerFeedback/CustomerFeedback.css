@@ -1,0 +1,20 @@
+.customer-feedback {
+    background-color: #2a2e35;
+    padding: 20px;
+    border-radius: 5px;
+    flex: 1;
+    margin-bottom: 20px;
+  }
+  
+  .feedback-card {
+    margin-bottom: 20px;
+    padding: 10px;
+    background-color: #343a40;
+    border-radius: 5px;
+  }
+  
+  @media (min-width: 768px) {
+    .customer-feedback {
+      margin-bottom: 0;
+    }
+  }
